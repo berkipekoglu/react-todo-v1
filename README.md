@@ -1,3 +1,10 @@
+# React Todo Project v1
+
+React ile pekiştirme amaçlı izle-uygula-öğren metoduyla yaptığım ToDo projesi.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
